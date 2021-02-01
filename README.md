@@ -1,2 +1,2 @@
-# Platypus-Tech.github.io
+# Platypus Tech site
 The Platypus Tech site!
